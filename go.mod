@@ -1,5 +1,4 @@
-module github.com/jrudio/go-plex-client
-
+module github.com/mjdean/go-plex-client
 go 1.12
 
 require (
